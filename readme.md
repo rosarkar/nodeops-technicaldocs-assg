@@ -821,7 +821,7 @@ If you need assistance with SafeSend:
 - [Connect your Telegram](#connect-telegram-for-notifications) for transfer confirmations
 - Save frequent recipients in your [Address Book](#manage-your-address-book)
 - Climb the [Leaderboard](#leaderboard-and-rewards) to earn $NODE rewards
-- Learn more about [$NODE tokenomics](/Tokenomics/node)
-- Explore other [NodeOps Core Services](/Core-Services)
-- Discover [NodeOps Console](/Guides/Console) for Node-as-a-Service
-- Browse the [NodeOps Cloud Marketplace](/Guides/Marketplace) for decentralized Compute
+- Learn more about [$NODE tokenomics](https://docs.nodeops.network/Tokenomics/node)
+- Explore other [NodeOps Core Services](https://docs.nodeops.network/Core-Services)
+- Discover [NodeOps Console](https://docs.nodeops.network/Guides/Console) for Node-as-a-Service
+- Browse the [NodeOps Cloud Marketplace](https://docs.nodeops.network/Guides/Marketplace) for decentralized Compute
